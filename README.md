@@ -1,4 +1,4 @@
-# AngularTourOfHeroes
+# Angular Tour Of Heroes
 
 Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 8.3.23.
 
@@ -10,7 +10,7 @@ npm i
 ## Servidor de desenvolvimento
 Para rodar um servidor de desenvolvimento:
 ```bash
-ng serve --open
+ng s --open
 ```
 O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
  
